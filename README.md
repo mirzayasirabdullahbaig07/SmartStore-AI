@@ -5,6 +5,9 @@ It simulates how smart retail stores can detect empty shelves, prioritize restoc
 
 ---
 
+## Video Demo
+https://github.com/user-attachments/assets/5e09ed36-a51a-45ea-9c48-4c7e254ae89a
+
 ## 📌 Problem Statement
 
 Retail stores frequently face **out-of-stock situations**, leading to:
@@ -51,6 +54,9 @@ SmartStore AI solves this problem by simulating an intelligent system that:
 6. Metrics and logs update in real time.
 
 ---
+
+## Images
+
 
 ## 📊 Dashboard Overview
 
