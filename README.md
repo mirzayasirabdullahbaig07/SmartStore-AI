@@ -1,4 +1,4 @@
-<img width="1648" height="793" alt="image" src="https://github.com/user-attachments/assets/046dd308-3236-4b5e-ac68-22f4f672535c" /># 🛒 SmartStore AI – Intelligent Retail Shelf Monitoring Simulation
+# 🛒 SmartStore AI – Intelligent Retail Shelf Monitoring Simulation
 
 SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.  
 It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational decisions using AI logic.
